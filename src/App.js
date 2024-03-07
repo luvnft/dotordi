@@ -17,12 +17,12 @@ function App() {
 
     return (
         <div className="App">
-            <a href="https://github.com/niklabh/dotordinals" className="github-corner" aria-label="View source on GitHub">
-              <img src='https://github.blog/wp-content/uploads/2008/12/forkme_right_white_ffffff.png?resize=149%2C149' alt='Fork me on GitHub' />
+            <a href="https://x.com/luvnft" className="github-corner" aria-label="View source on GitHub">
+              <img src='https://github.blog/wp-content/uploads/2008/12/forkme_right_white_ffffff.png?resize=149%2C149' alt='Join us on X' />
             </a>
 
             <div className="tab">
-                <h1 className="logo-title"><img className='logo-img' height="30" src={logo} alt="logo" /> Dot Ordinals</h1>
+                <h1 className="logo-title"><img className='logo-img' height="30" src={logo} alt="logo" /> DOTORDS.</h1>
                 <section>
                     <article>
                         <button
